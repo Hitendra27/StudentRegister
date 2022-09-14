@@ -1,4 +1,4 @@
-# StudentRegister-App-in-Kotlin
+# StudentRegister-App-in-Android.
 
 ```diff
 A Student Register App in Android. A full CRUD app built with database Room, ViewModel and ViewBinding.
