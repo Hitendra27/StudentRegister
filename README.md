@@ -1,4 +1,4 @@
-# StudentRegister-App-in-Android.
+# Student Register App.
 
 ```diff
 A Student Register App in Android. A full CRUD app built with database Room, ViewModel and ViewBinding.
